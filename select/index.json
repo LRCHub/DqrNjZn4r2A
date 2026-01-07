@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "青写真",
+  "base_artist": "Ivy to Fraudulent Game",
+  "createdAt": "2026-01-07T00:36:54.193574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青写真",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/01_青写真_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青写真",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/02_青写真_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青写真",
+      "artist": "Ivy to Fraudulent Game",
+      "has_synced": false,
+      "path": "select/03_青写真_Ivy_to_Fraudulent_Game.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青写真",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/04_青写真_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青写真",
+      "artist": "Ivy to Fraudulent Game",
+      "has_synced": false,
+      "path": "select/pl_01_青写真_Ivy_to_Fraudulent_Game.txt"
+    }
+  ]
+}
